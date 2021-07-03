@@ -7,10 +7,10 @@ aplikasi ini dibuat untuk melengkapi tugas mandiri
 
 ### 3 Juli 2021
 struktur aplikasi
--- src
-	-- index.js
--- package.json
--- readme.md
+<br>-- src
+	<br>-- index.js
+<br>-- package.json
+<br>-- readme.md
 
 cara menjalankan palikasi
 1. buka terminal/cmd, untuk mengunakan npm cara, ketik "npm star" (tanpa tanda kutip)
